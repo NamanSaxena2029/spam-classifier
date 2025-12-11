@@ -31,11 +31,11 @@ Advanced Machine Learning web application to classify emails/SMS as Spam or Legi
 
 ## 🚀 Live Demo
 
-**[Try it now!](https://your-app-name.streamlit.app)** ← (Update after deployment)
+**[Try it now!](https://spamclassifier2029.streamlit.app/)** ← (Update after deployment)
 
 ## 📸 Screenshots
 
-*Screenshots coming soon after deployment*
+*Screenshots coming soon*
 
 ## 🛠️ Installation
 
@@ -102,7 +102,7 @@ spam-classifier/
 │
 ├── app.py                      # Main Streamlit application
 ├── spam_classifier.ipynb       # Jupyter notebook (training & analysis)
-├── retrain_model.py           # Model retraining script
+├── retrain_model.py            # Model retraining script
 │
 ├── model.pkl                   # Trained Naive Bayes model
 ├── vectorizer.pkl              # TF-IDF vectorizer
@@ -113,7 +113,7 @@ spam-classifier/
 ├── requirements.txt            # Python dependencies
 ├── README.md                   # Documentation
 ├── LICENSE                     # MIT License
-└── .gitignore                 # Git ignore rules
+└── .gitignore                  # Git ignore rules
 ```
 
 ## 🎨 Features Breakdown
