@@ -31,7 +31,7 @@ Advanced Machine Learning web application to classify emails/SMS as Spam or Legi
 
 ## 🚀 Live Demo
 
-**[Try it now!](https://spamclassifier2029.streamlit.app/)** ← (Update after deployment)
+**[Try it now!](https://spamclassifier2029.streamlit.app/)**
 
 ## 📸 Screenshots
 
